@@ -1,0 +1,247 @@
+.card{
+    width: 360px;
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-230%, -170%);
+}
+.top-section{
+    height: 50px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+}
+#image-container{
+    widows: 360px;
+    height: 240px;
+}
+.price{
+    position: absolutle;
+    top: 50%;
+    right: 50%;
+    color: #000;
+    font-size: 24px;
+    padding: 24px;
+}
+.product-info{
+    padding: 24px;
+}
+.name{
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #333;
+}
+.dis{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.btn{
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    display: block;
+    background: #6ab04c;
+    text-align: #fff;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    width: 290px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.btn:hover{
+    background: #333;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.card2{
+    width: 360px;
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-59%, -170%);
+}
+.top-section2{
+    height: 50px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+}
+#image-container2{
+    widows: 360px;
+    height: 240px;
+}
+.price2{
+    position: absolutle;
+    top: 50%;
+    right: 50%;
+    color: #000;
+    font-size: 24px;
+    padding: 24px;
+}
+.product-info2{
+    padding: 24px;
+}
+.name2{
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #333;
+}
+.dis2{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.btn2{
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    display: block;
+    background: #6ab04c;
+    text-align: #fff;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    width: 290px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.btn2:hover{
+    background: #333;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.card3{
+    width: 360px;
+    background: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(110%, -170%);
+}
+.top-section3{
+    height: 50px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+}
+#image-container3{
+    widows: 360px;
+    height: 240px;
+}
+.price3{
+    position: absolutle;
+    top: 50%;
+    right: 50%;
+    color: #000;
+    font-size: 24px;
+    padding: 24px;
+}
+.product-info3{
+    padding: 24px;
+}
+.name3{
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #333;
+}
+.dis3{
+    font-size: 16px;
+    opacity: 0.7;
+}
+.btn3{
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+    display: block;
+    background: #6ab04c;
+    text-align: #fff;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    width: 290px;
+    height: 20px;
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.btn3:hover{
+    background: #333;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+\\html
+
+    <div class="card">
+      <div class="top-section">
+        <img id="image-container" sec="1.png" alt="">
+        <div class="nav">
+          <img src="1.png" alt="">
+          <img src="2.png" alt="">
+          <img src="3.png" alt="">
+        </div>
+        <div class="price">20PLN</div>
+      </div>
+
+      <div class="product-info">
+        <div class="name">Nauka Crackowania</div>
+        <div class="dis">Naucz się crackować, i zdobywaj konta z grami za darmo!</div>
+        <a class="btn" href="https://tipply.pl/u/nykz">Kup | 20</a>
+      </div>
+    </div>
+
+    <div class="card2">
+      <div class="top-section2">
+        <img id="image-container2" sec="1.png" alt="">
+        <div class="nav">
+          <img src="1.png" alt="">
+          <img src="2.png" alt="">
+          <img src="3.png" alt="">
+        </div>
+        <div class="price2">20PLN</div>
+      </div>
+
+      <div class="product-info2">
+        <div class="name2">Strona internetowa</div>
+        <div class="dis2">Nie masz czasu na tworzenie strony, lub nie umiesz? Oddaj to w nasze ręce!</div>
+        <a class="btn2" href="https://tipply.pl/u/nykz">Kup | 20</a>
+      </div>
+    </div>
+
+    <div class="card3">
+      <div class="top-section3">
+        <img id="image-container3" sec="1.png" alt="">
+        <div class="nav">
+          <img src="1.png" alt="">
+          <img src="2.png" alt="">
+          <img src="3.png" alt="">
+        </div>
+        <div class="price3">20PLN</div>
+      </div>
+
+      <div class="product-info3">
+        <div class="name3">Strona internetowa</div>
+        <div class="dis3">Nie masz czasu na tworzenie strony, lub nie umiesz? Oddaj to w nasze ręce!</div>
+        <a class="btn3" href="https://tipply.pl/u/nykz">Kup | 20</a>
+      </div>
+    </div>
